@@ -4,12 +4,7 @@ from urllib.parse import urljoin, urlparse
 
 # CONFIG
 SEEDS = [
-    "https://www.python.org/",
-    "https://developer.mozilla.org/",
-    "https://wikipedia.org/",
-    "https://github.com/",
-    "https://openai.com/",
-    "https://bygrovix.com/"
+    "https://github.com/SajadTroy/cation",
 ]
 OUTPUT = "data/webdata.json"
 CRAWL_DELAY = 1.0
