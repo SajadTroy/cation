@@ -25,7 +25,12 @@ def search_data(data, query):
     results = []
     query = query.lower()
     for item in data:
-        if query in item["title"].lower() or query in item["snippet"].lower():
+        # ✅ Now matches title, snippet, OR url
+        if (
+            query in item["title"].lower()
+            or query in item["snippet"].lower()
+            or query in item["url"].lower()
+        ):
             results.append(item)
     return results
 

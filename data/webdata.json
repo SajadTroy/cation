@@ -1,42 +1,1617 @@
 [
   {
-    "title": "Python — Official Site",
-    "url": "https://www.python.org/",
-    "snippet": "The official home of the Python Programming Language. Downloads, documentation, and community resources."
+    "title": "Welcome to Python.org",
+    "url": "https://www.python.org",
+    "snippet": "The official home of the Python Programming Language"
   },
   {
-    "title": "GitHub",
-    "url": "https://github.com/",
-    "snippet": "GitHub is where over 100 million developers shape the future of software together. Explore, collaborate, and build."
-  },
-  {
-    "title": "Linux Manual Pages",
-    "url": "https://man7.org/linux/man-pages/",
-    "snippet": "Extensive collection of Linux man pages and system documentation, covering commands, system calls, and libraries."
-  },
-  {
-    "title": "Mozilla Developer Network (MDN)",
-    "url": "https://developer.mozilla.org/",
-    "snippet": "MDN Web Docs provides documentation and tutorials for web developers on HTML, CSS, JavaScript, and APIs."
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
   },
   {
     "title": "Wikipedia",
-    "url": "https://www.wikipedia.org/",
-    "snippet": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world."
+    "url": "https://wikipedia.org",
+    "snippet": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world and hosted by the Wikimedia Foundation."
   },
   {
-    "title": "Kaggle",
-    "url": "https://www.kaggle.com/",
-    "snippet": "Kaggle is a platform for predictive modeling and analytics competitions, with datasets and notebooks."
+    "title": "GitHub \u00b7 Build and ship software on a single, collaborative platform \u00b7 GitHub",
+    "url": "https://github.com",
+    "snippet": "Join the world's most widely adopted, AI-powered developer platform where millions of developers, businesses, and the largest open source community build software that advances humanity."
   },
   {
-    "title": "Stack Overflow",
-    "url": "https://stackoverflow.com/",
-    "snippet": "Stack Overflow is the largest online community for developers to learn, share their programming knowledge, and build careers."
+    "title": "Grovix - Read, Write & Share Articles on Technology, Science, Business & More",
+    "url": "https://bygrovix.com",
+    "snippet": "Grovix is your go-to platform for the latest articles and insights on technology and science."
   },
   {
-    "title": "OpenAI",
-    "url": "https://openai.com/",
-    "snippet": "OpenAI develops artificial intelligence models like GPT to ensure that AI benefits all of humanity."
+    "title": "Python Software Foundation",
+    "url": "https://www.python.org/psf",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Community | Python.org",
+    "url": "https://www.python.org/community",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Internet Relay Chat | Python.org",
+    "url": "https://www.python.org/community/irc",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "About Python\u2122 | Python.org",
+    "url": "https://www.python.org/about",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Applications for Python | Python.org",
+    "url": "https://www.python.org/about/apps",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Quotes about Python | Python.org",
+    "url": "https://www.python.org/about/quotes",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python For Beginners | Python.org",
+    "url": "https://www.python.org/about/gettingstarted",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Help | Python.org",
+    "url": "https://www.python.org/about/help",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Download Python | Python.org",
+    "url": "https://www.python.org/downloads",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Source Releases | Python.org",
+    "url": "https://www.python.org/downloads/source",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Releases for Windows | Python.org",
+    "url": "https://www.python.org/downloads/windows",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Releases for macOS | Python.org",
+    "url": "https://www.python.org/downloads/macos",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Releases for Android | Python.org",
+    "url": "https://www.python.org/downloads/android",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Download Python for other platforms | Python.org",
+    "url": "https://www.python.org/download/other",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Alternative Python Implementations | Python.org",
+    "url": "https://www.python.org/download/alternatives",
+    "snippet": "This site hosts the \"traditional\" implementation of Python (nicknamed CPython). A number of alternative implementations are available as well and several vendors have repackaged CPython to include more libraries or specialized it for a particular application."
+  },
+  {
+    "title": "Our Documentation | Python.org",
+    "url": "https://www.python.org/doc",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Audio/Video Instructional Materials for Python | Python.org",
+    "url": "https://www.python.org/doc/av",
+    "snippet": "A growing body of podcasts, screencasts and video presentations for the Python community."
+  },
+  {
+    "title": "Python Documentation Index | Python.org",
+    "url": "https://www.python.org/doc/essays",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Diversity | Python.org",
+    "url": "https://www.python.org/community/diversity",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Mailing Lists | Python.org",
+    "url": "https://www.python.org/community/lists",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Forums | Python.org",
+    "url": "https://www.python.org/community/forums",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "2024 PSF Annual Impact Report | Python.org",
+    "url": "https://www.python.org/psf/annual-report/2024",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Conferences and Workshops | Python.org",
+    "url": "https://www.python.org/community/workshops",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Special Interest Groups | Python.org",
+    "url": "https://www.python.org/community/sigs",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "The Python Logo | Python Software Foundation",
+    "url": "https://www.python.org/community/logos",
+    "snippet": "Inline image sizing"
+  },
+  {
+    "title": "Python Software Foundation Code of Conduct - Python Software Foundation Policies",
+    "url": "https://www.python.org/psf/conduct",
+    "snippet": "Python Software Foundation Code of Conduct - Python Software Foundation Policies Skip to content Python Software Foundation Policies Python Software Foundation Code of Conduct GitHub Python Software F"
+  },
+  {
+    "title": "Python Community Awards | Python Software Foundation",
+    "url": "https://www.python.org/community/awards",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "\u00f0\u009f\u0091\u008b Hey Community Members! | Python Software Foundation",
+    "url": "https://www.python.org/psf/get-involved",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Community Stories | Python Software Foundation",
+    "url": "https://www.python.org/psf/community-stories",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Success Stories | Python.org",
+    "url": "https://www.python.org/success-stories",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Arts | Our Success Stories | Python.org",
+    "url": "https://www.python.org/success-stories/category/arts",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Business | Our Success Stories | Python.org",
+    "url": "https://www.python.org/success-stories/category/business",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Education | Our Success Stories | Python.org",
+    "url": "https://www.python.org/success-stories/category/education",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Engineering | Our Success Stories | Python.org",
+    "url": "https://www.python.org/success-stories/category/engineering",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Government | Our Success Stories | Python.org",
+    "url": "https://www.python.org/success-stories/category/government",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Scientific | Our Success Stories | Python.org",
+    "url": "https://www.python.org/success-stories/category/scientific",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Software Development | Our Success Stories | Python.org",
+    "url": "https://www.python.org/success-stories/category/software-development",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Blogs | Python.org",
+    "url": "https://www.python.org/blogs",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "PSF Newsletter Signup | Python Software Foundation",
+    "url": "https://www.python.org/psf/newsletter",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Events | Python.org",
+    "url": "https://www.python.org/events",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Events | Python.org",
+    "url": "https://www.python.org/events/python-events",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Events | Python.org",
+    "url": "https://www.python.org/events/python-user-group",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Events | Python.org",
+    "url": "https://www.python.org/events/python-events/past",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Events | Python.org",
+    "url": "https://www.python.org/events/python-user-group/past",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Welcome to Python.org",
+    "url": "https://www.python.org/shell",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Release Python 3.13.7 | Python.org",
+    "url": "https://www.python.org/downloads/release/python-3137",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Calendars | Python.org",
+    "url": "https://www.python.org/events/calendars",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python-Driven E-Commerce Forum 2025 | Python.org",
+    "url": "https://www.python.org/events/python-events/2076",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "PyCon Africa 2025 | Python.org",
+    "url": "https://www.python.org/events/python-events/2033",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Wagtail Space 2025 | Python.org",
+    "url": "https://www.python.org/events/python-events/2093",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "PyCon Hong Kong 2025 | Python.org",
+    "url": "https://www.python.org/events/python-events/2078",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Plone Conference 2025 | Python.org",
+    "url": "https://www.python.org/events/python-events/2022",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Using Python to build a solution for instant tokenized real estate redemptions | Our Success Stories | Python.org",
+    "url": "https://www.python.org/success-stories/using-python-to-build-a-solution-for-instant-tokenized-real-estate-redemptions",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Become a Member of the PSF | Python Software Foundation",
+    "url": "https://www.python.org/psf/membership",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Support the PSF with a Donation or by becoming a Supporting Member! | Python Software Foundation",
+    "url": "https://www.python.org/psf/donations",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Developer's Guide | Python.org",
+    "url": "https://www.python.org/dev",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Core Mentorship | Python.org",
+    "url": "https://www.python.org/dev/core-mentorship",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Security | Python.org",
+    "url": "https://www.python.org/dev/security",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Software Foundation",
+    "url": "https://www.python.org/psf-landing",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Legal Statements | Python Software Foundation",
+    "url": "https://www.python.org/about/legal",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/en-US",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "HTML: HyperText Markup Language | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML",
+    "snippet": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript)."
+  },
+  {
+    "title": "HTML elements reference - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements",
+    "snippet": "This page lists all the HTML elements, which are created using tags."
+  },
+  {
+    "title": "Global attributes - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes",
+    "snippet": "Global attributes are attributes common to all HTML elements; they can be used on all elements, though they may have no effect on some elements."
+  },
+  {
+    "title": "HTML attribute reference - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Attributes",
+    "snippet": "Elements in HTML have attributes; these are additional values that configure the elements or adjust their behavior in various ways to meet the criteria the users want."
+  },
+  {
+    "title": "HTML reference - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Reference",
+    "snippet": "This HTML reference describes all elements and attributes of HTML, including global attributes that apply to all elements."
+  },
+  {
+    "title": "Using responsive images in HTML - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images",
+    "snippet": "In this article, we'll learn about the concept of responsive images \u00e2\u0080\u0094 images that work well on devices with widely differing screen sizes, resolutions, and other such features \u00e2\u0080\u0094 and look at what tools HTML provides to help implement them. This helps to improve performance across different devices."
+  },
+  {
+    "title": "HTML cheatsheet for syntax and common tasks - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Cheatsheet",
+    "snippet": "While using HTML it can be very handy to have an easy way to remember how to use HTML tags properly and how to apply them. MDN provides you with extended HTML reference documentation as well as a deep instructional set of HTML guides. However, in many cases we just need some quick hints as we go. That's the whole purpose of the cheat sheet, to give you some quick accurate ready to use code snippets for common usages."
+  },
+  {
+    "title": "Using date and time formats in HTML - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Date_and_time_formats",
+    "snippet": "Certain HTML elements use date and/or time values. The formats of the strings that specify these values are described in this article."
+  },
+  {
+    "title": "HTML guides - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Guides",
+    "snippet": "This page lists the guides for using HTML."
+  },
+  {
+    "title": "SVG: Scalable Vector Graphics | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/SVG",
+    "snippet": "Scalable Vector Graphics (SVG) is an XML-based markup language for describing two-dimensional based vector graphics."
+  },
+  {
+    "title": "MathML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/MathML",
+    "snippet": "Mathematical Markup Language (MathML) is an XML-based language for describing mathematical notation."
+  },
+  {
+    "title": "XML: Extensible Markup Language | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/XML",
+    "snippet": "The Extensible Markup Language is a strict serialization of the Document Object Model."
+  },
+  {
+    "title": "CSS: Cascading Style Sheets | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS",
+    "snippet": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media."
+  },
+  {
+    "title": "CSS properties - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Properties",
+    "snippet": "A CSS property is a parameter used in a CSS declaration that lets you style certain aspects of selected elements.\nFor example, the opacity property is used to set the opacity of a selected element, allowing you to control if content behind that element is visible:"
+  },
+  {
+    "title": "CSS selectors - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors",
+    "snippet": "The CSS selectors module defines the patterns to select elements to which a set of CSS rules are then applied along with their specificity. The CSS selectors module provides us with more than 60 selectors and five combinators. Other modules provide additional pseudo-class selectors and pseudo-elements."
+  },
+  {
+    "title": "At-rules - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_syntax/At-rule",
+    "snippet": "At-rules are CSS statements that instruct CSS how to behave. They begin with an at-sign, @ (U+0040 COMMERCIAL AT), followed by an identifier. They include everything from the at-keyword up to the next semicolon, ; (U+003B SEMICOLON), or the next CSS block, whichever comes first."
+  },
+  {
+    "title": "CSS values and units - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Values_and_Units",
+    "snippet": "Every CSS declaration consists of a property/value pair. The value can take various forms depending on the property, such as a single integer, keyword, function, or a combination of different items; some values have units, while others do not. Every property also accepts the CSS-wide values. The CSS values and units module defines the data types \u00e2\u0080\u0094 values and units \u00e2\u0080\u0094 that CSS properties accept. This module also defines the CSS value definition syntax, or formal grammar, used to define the set of valid values for every CSS property and function."
+  },
+  {
+    "title": "CSS reference - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Reference",
+    "snippet": "Use this CSS reference to browse an alphabetical index of all of the standard CSS properties, pseudo-classes, pseudo-elements, data types, functional notations and at-rules. You can also browse key CSS concepts and a list of selectors organized by type. Also included is a brief DOM-CSS / CSSOM reference."
+  },
+  {
+    "title": "Introduction to the CSS box model - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_box_model/Introduction_to_the_CSS_box_model",
+    "snippet": "When laying out a document, the browser's rendering engine represents each element as a rectangular box according to the standard CSS basic box model. CSS determines the size, position, and properties (color, background, border size, etc.) of these boxes."
+  },
+  {
+    "title": "Using CSS animations - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_animations/Using_CSS_animations",
+    "snippet": "CSS animations make it possible to animate transitions from one CSS style configuration to another. Animations consist of two components: a style describing the CSS animation and a set of keyframes that indicate the start and end states of the animation's style, as well as possible intermediate waypoints."
+  },
+  {
+    "title": "Basic concepts of flexbox - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout/Basic_concepts_of_flexbox",
+    "snippet": "The flexible box layout module (usually referred to as flexbox) is a one-dimensional layout model for distributing space between items and includes numerous alignment capabilities. This article gives an outline of the main features of flexbox, which we will explore in more detail in the rest of these guides."
+  },
+  {
+    "title": "CSS colors - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors",
+    "snippet": "The CSS colors module defines colors, color types, color blending, opacity, and how you can apply these colors and effects to HTML content."
+  },
+  {
+    "title": "CSS guides - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Guides",
+    "snippet": "There are a number of methods that you can use to lay out your web pages and applications. MDN contains a number of in-depth guides to the different methods, and this page provides an overview of them all."
+  },
+  {
+    "title": "Column layouts - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Column_layouts",
+    "snippet": "You will often need to create a layout which has a number of columns, and CSS provides several ways to do this. Whether you use Multi-column, Flexbox, or Grid layout will depend on what you are trying to achieve, and in this recipe we explore these options."
+  },
+  {
+    "title": "Center an element - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Center_an_element",
+    "snippet": "In this recipe, you will see how to center one box inside another by using flexbox and grid, centering content both horizontally and vertically."
+  },
+  {
+    "title": "Card - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook/Card",
+    "snippet": "This pattern is a list of \"card\" components with optional footers. A card contains a title, an image, a description or other content, and an attribution or footer. Cards are generally displayed within a group or collection."
+  },
+  {
+    "title": "CSS layout cookbook - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/Layout_cookbook",
+    "snippet": "The CSS layout cookbook aims to bring together recipes for common layout patterns, things you might need to implement in your own sites. In addition to providing code you can use as a starting point in your projects, these recipes highlight the different ways layout specifications can be used, and the choices you can make as a developer."
+  },
+  {
+    "title": "JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+    "snippet": "JavaScript (JS) is a lightweight interpreted (or just-in-time compiled) programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, garbage-collected, dynamic language, supporting multiple paradigms such as imperative, functional, and object-oriented."
+  },
+  {
+    "title": "Standard built-in objects - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects",
+    "snippet": "This chapter documents all of JavaScript's standard, built-in objects, including their methods and properties."
+  },
+  {
+    "title": "Expressions and operators - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators",
+    "snippet": "This chapter documents all the JavaScript language operators, expressions and keywords."
+  },
+  {
+    "title": "Statements and declarations - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements",
+    "snippet": "JavaScript applications consist of statements with an appropriate syntax. A single statement may span multiple lines. Multiple statements may occur on a single line if each statement is separated by a semicolon. This isn't a keyword, but a group of keywords."
+  },
+  {
+    "title": "Functions - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions",
+    "snippet": "Generally speaking, a function is a \"subprogram\" that can be called by code external (or internal, in the case of recursion) to the function. Like the program itself, a function is composed of a sequence of statements called the function body. Values can be passed to a function as parameters, and the function will return a value."
+  },
+  {
+    "title": "JavaScript reference - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference",
+    "snippet": "The JavaScript reference serves as a repository of facts about the JavaScript language. The entire language is described here in detail. As you write JavaScript code, you'll refer to these pages often (thus the title \"JavaScript reference\")."
+  },
+  {
+    "title": "Control flow and error handling - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling",
+    "snippet": "JavaScript supports a compact set of statements, specifically\ncontrol flow statements, that you can use to incorporate a great deal of interactivity\nin your application. This chapter provides an overview of these statements."
+  },
+  {
+    "title": "Loops and iteration - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration",
+    "snippet": "Loops offer a quick and easy way to do something repeatedly. This\nchapter of the JavaScript Guide\nintroduces the different iteration statements available to JavaScript."
+  },
+  {
+    "title": "Working with objects - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_objects",
+    "snippet": "JavaScript is designed on an object-based paradigm. An object is a collection of properties, and a property is an association between a name (or key) and a value. A property's value can be a function, in which case the property is known as a method."
+  },
+  {
+    "title": "Using classes - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Using_classes",
+    "snippet": "JavaScript is a prototype-based language \u00e2\u0080\u0094 an object's behaviors are specified by its own properties and its prototype's properties. However, with the addition of classes, the creation of hierarchies of objects and the inheritance of properties and their values are much more in line with other object-oriented languages such as Java. In this section, we will demonstrate how objects can be created from classes."
+  },
+  {
+    "title": "JavaScript Guide - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+    "snippet": "The JavaScript Guide shows you how to use JavaScript and gives an overview of the language. If you need exhaustive information about a language feature, have a look at the JavaScript reference."
+  },
+  {
+    "title": "Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API",
+    "snippet": "When writing code for the Web, there are a large number of Web APIs available. Below is a list of all the APIs and interfaces (object types) that you may be able to use while developing your Web app or site."
+  },
+  {
+    "title": "File System API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/File_System_API",
+    "snippet": "The File System API \u00e2\u0080\u0094 with extensions provided via the File System Access API to access files on the device file system \u00e2\u0080\u0094 allows read, write and file management capabilities."
+  },
+  {
+    "title": "Fetch API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API",
+    "snippet": "The Fetch API provides an interface for fetching resources (including across the network). It is a more powerful and flexible replacement for XMLHttpRequest."
+  },
+  {
+    "title": "Geolocation API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API",
+    "snippet": "The Geolocation API allows the user to provide their location to web applications if they so desire. For privacy reasons, the user is asked for permission to report location information."
+  },
+  {
+    "title": "The HTML DOM API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API",
+    "snippet": "The HTML DOM API is made up of the interfaces that define the functionality of each of the elements in HTML, as well as any supporting types and interfaces they rely upon."
+  },
+  {
+    "title": "Push API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Push_API",
+    "snippet": "The Push API gives web applications the ability to receive messages pushed to them from a server, whether or not the web app is in the foreground, or even currently loaded, on a user agent. This lets developers deliver asynchronous notifications and updates to users that opt in, resulting in better engagement with timely new content."
+  },
+  {
+    "title": "Service Worker API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API",
+    "snippet": "Service workers essentially act as proxy servers that sit between web applications, the browser, and the network (when available). They are intended, among other things, to enable the creation of effective offline experiences, intercept network requests, and take appropriate action based on whether the network is available, and update assets residing on the server. They will also allow access to push notifications and background sync APIs."
+  },
+  {
+    "title": "Using the Web Animations API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Animations_API/Using_the_Web_Animations_API",
+    "snippet": "The Web Animations API lets us construct animations and control their playback with JavaScript. This article will start you off in the right direction with fun demos and tutorials featuring Alice in Wonderland."
+  },
+  {
+    "title": "Using the Fetch API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch",
+    "snippet": "The Fetch API provides a JavaScript interface for making HTTP requests and processing the responses."
+  },
+  {
+    "title": "Working with the History API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/History_API/Working_with_the_History_API",
+    "snippet": "The History API enables a website to interact with the browser's session history: that is, the list of pages that the user has visited in a given window. As the user visits new pages, for example by clicking links, those new pages are added to the session history. The user can also move back and forth through the history using the browser's \"Back\" and \"Forward\" buttons."
+  },
+  {
+    "title": "Using the Web Speech API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API",
+    "snippet": "The Web Speech API provides two distinct areas of functionality \u00e2\u0080\u0094 speech recognition and speech synthesis (also known as text to speech, or TTS) \u00e2\u0080\u0094 which open up interesting possibilities for accessibility and control. This article provides an introduction to both the areas, along with demos."
+  },
+  {
+    "title": "Using Web Workers - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers",
+    "snippet": "Web Workers are a simple means for web content to run scripts in background threads. The worker thread can perform tasks without interfering with the user interface. In addition, they can make network requests using the fetch() or XMLHttpRequest APIs. Once created, a worker can send messages to the JavaScript code that created it by posting messages to an event handler specified by that code (and vice versa)."
+  },
+  {
+    "title": "Web technology for developers | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web",
+    "snippet": "The open Web presents incredible opportunities for developers. To take full advantage of these technologies, you need to know how to use them. Below you'll find links to our Web technology documentation."
+  },
+  {
+    "title": "Accessibility | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Accessibility",
+    "snippet": "Accessibility (often abbreviated to A11y \u00e2\u0080\u0094 as in, \"a\", then 11 characters, and then \"y\") in web development means enabling as many people as possible to use websites, even when those people's abilities are limited in some way."
+  },
+  {
+    "title": "HTTP: Hypertext Transfer Protocol | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+    "snippet": "HTTP is an application-layer protocol for transmitting hypermedia documents, such as HTML.\nIt was designed for communication between web browsers and web servers, but it can also be used for other purposes, such as machine-to-machine communication, programmatic access to APIs, and more."
+  },
+  {
+    "title": "URIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/URI",
+    "snippet": "Uniform Resource Identifiers (URI) are used to identify \"resources\" on the web.\nURIs are commonly used as targets of HTTP requests, in which case the URI represents a location for a resource, such as a document, a photo, binary data.\nThe most common type of URI is a Uniform Resource Locator (URL), which is known as the web address."
+  },
+  {
+    "title": "Browser extensions - Mozilla | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions",
+    "snippet": "Extensions, or add-ons, can modify and enhance the capability of a browser. Extensions for Firefox are built using the WebExtensions API cross-browser technology."
+  },
+  {
+    "title": "WebAssembly | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/WebAssembly",
+    "snippet": "WebAssembly is a type of code that can be run in modern web browsers.\nIt is a low-level assembly-like language with a compact binary format that runs with near-native performance and provides languages such as C/C++, C# and Rust with a compilation target so that they can run on the web.\nIt is also designed to run alongside JavaScript, allowing both to work together."
+  },
+  {
+    "title": "WebDriver | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/WebDriver",
+    "snippet": "WebDriver is a remote control interface that enables introspection and control of user agents. It provides a platform- and language-neutral wire protocol as a way for out-of-process programs to remotely instruct the behavior of web browsers."
+  },
+  {
+    "title": "Media technologies on the web | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Media",
+    "snippet": "Over the years, the web's ability to present, create, and manage audio, video, and other media has matured.\nThere are now a large number of APIs, as well as HTML elements, DOM interfaces, and other features that make it possible to work with media in exciting and immersive ways.\nThis article lists guides and references for various features you may use when incorporating media into your projects."
+  },
+  {
+    "title": "Performance - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Performance",
+    "snippet": "The Performance interface provides access to performance-related information for the current page."
+  },
+  {
+    "title": "Privacy on the web | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Privacy",
+    "snippet": "People use websites for several important tasks such as banking, shopping, entertainment, and paying their taxes. In doing so, they are required to share personal information with those sites. Users place a certain level of trust in the sites they share their data with. If that information fell into the wrong hands, it could be used to exploit users, for example by profiling them, targeting them with unwanted ads, or even stealing their identity or money."
+  },
+  {
+    "title": "Security on the web | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Security",
+    "snippet": "Websites contain several different types of information. Some of it is non-sensitive, for example the copy shown on the public pages. Some of it is sensitive, for example customer usernames, passwords, and banking information, or internal algorithms and private product information."
+  },
+  {
+    "title": "Progressive web apps | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps",
+    "snippet": "A progressive web app (PWA) is an app that's built using web platform technologies, but that provides a user experience like that of a platform-specific app."
+  },
+  {
+    "title": "Learn web development | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+    "snippet": "Welcome to MDN Learning Web Development (also known as Learn). This resource provides a structured set of tutorials teaching the essential skills and practices for being a successful front-end developer, along with challenges and further recommended resources."
+  },
+  {
+    "title": "Getting started modules - Learn web development | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started",
+    "snippet": "Welcome to Getting started! If you are a complete beginner (i.e., you've not installed a code editor or written any code yet), then this is the place to be. The Getting started modules take you through installing the software you need, familiarity with your development environment, taking your first stab at building a simple website, and understanding some of the essential concepts surrounding web development."
+  },
+  {
+    "title": "How to solve common problems - Learn web development | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto",
+    "snippet": "This section provides solutions to common front-end problems and answers to common questions."
+  },
+  {
+    "title": "MDN Curriculum",
+    "url": "https://developer.mozilla.org/en-US/curriculum",
+    "snippet": "The MDN Curriculum provides a structured guide to the essential skills and practices for being a successful front-end developer, along with recommended learning resources."
+  },
+  {
+    "title": "Structuring content with HTML - Learn web development | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content",
+    "snippet": "HTML is the technology that defines the content and structure of any website. Written properly, it should also define the semantics (meaning) of the content in a machine-readable way, which is vital for accessibility, search engine optimization, and making use of the built-in features browsers provide for content to work optimally. This module covers the basics of the language, before looking at key areas such as document structure, links, lists, images, forms, and more."
+  },
+  {
+    "title": "Basic HTML syntax - Learn web development | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Basic_HTML_syntax",
+    "snippet": "In this article, we cover the absolute basics of HTML. To get you started, this article defines elements, attributes, and all the other important terms you may have heard. It also explains where these fit into HTML. You will learn how HTML elements are structured, how a typical HTML page is structured, and other important basic language features. Along the way, there will be an opportunity to play with HTML too!"
+  },
+  {
+    "title": "What is CSS? - Learn web development | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/What_is_CSS",
+    "snippet": "CSS (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is, what the basic syntax looks like, and how your browser applies CSS to HTML to style it."
+  },
+  {
+    "title": "Getting started with CSS - Learn web development | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Getting_started",
+    "snippet": "In this article, we will get you to take a simple HTML document and apply CSS to it, learning some practical details of the language along the way. We will also review some additional CSS syntax features you've not looked at yet."
+  },
+  {
+    "title": "Use data attributes - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/Use_data_attributes",
+    "snippet": "HTML is designed with extensibility in mind for data that should be associated with a particular element but need not have any defined meaning. data-* attributes allow us to store extra information on standard, semantic HTML elements without other hacks such as non-standard attributes, or extra properties on DOM."
+  },
+  {
+    "title": "Add JavaScript to your web page - HTML | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/How_to/Add_JavaScript_to_your_web_page",
+    "snippet": "Take your webpages to the next level by harnessing JavaScript. Learn in this article how to trigger JavaScript right from your HTML documents."
+  },
+  {
+    "title": "Playground | MDN",
+    "url": "https://developer.mozilla.org/en-US/play",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "HTTP Header Security Test - HTTP Observatory | MDN",
+    "url": "https://developer.mozilla.org/en-US/observatory",
+    "snippet": "Test your site\u00e2\u0080\u0099s HTTP headers, including CSP and HSTS, to find security problems and get actionable recommendations to make your website more secure. Test other websites to see how you compare."
+  },
+  {
+    "title": "Border-image generator - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Border-image_generator",
+    "snippet": "This tool can be used to generate CSS border-image values."
+  },
+  {
+    "title": "Border-radius generator - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Border-radius_generator",
+    "snippet": "This tool can be used to generate CSS border-radius effects."
+  },
+  {
+    "title": "Box-shadow generator - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_backgrounds_and_borders/Box-shadow_generator",
+    "snippet": "This tool lets you construct CSS box-shadow effects, to add box shadow effects to your CSS objects."
+  },
+  {
+    "title": "Color format converter - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Color_format_converter",
+    "snippet": "This tool lets you enter or pick a color and copy its corresponding value in any CSS color format. You can use the generated color value anywhere the <color> data type is supported in CSS. This tool can also help you understand the syntax of the different color notations."
+  },
+  {
+    "title": "Color mixer - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_colors/Color_mixer",
+    "snippet": "This tool lets you mix two colors in any color space using the color-mix() function and copy the resulting color in any CSS color format."
+  },
+  {
+    "title": "Shape generator - CSS | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_shapes/Shape_generator",
+    "snippet": "This shape generator tool can be used to define the coordinates and syntax for features that use <basic-shape>"
+  },
+  {
+    "title": "About MDN",
+    "url": "https://developer.mozilla.org/en-US/about",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "Advertise with us | MDN",
+    "url": "https://developer.mozilla.org/en-US/advertising",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "Contribute to MDN",
+    "url": "https://developer.mozilla.org/en-US/community",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Blog",
+    "url": "https://developer.mozilla.org/en-US/blog",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/de",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/es",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/fr",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/ja",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/ko",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/pt-BR",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/ru",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/zh-CN",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Web Docs",
+    "url": "https://developer.mozilla.org/zh-TW",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "Celebrating 20 years of MDN",
+    "url": "https://developer.mozilla.org/en-US/blog/mdn-turns-20",
+    "snippet": "MDN turns 20! Let's look at how we started, how MDN became the most trusted resource for web developers, the impact it's had on the open web, and yes, there's cake, too.\n"
+  },
+  {
+    "title": "CSS Custom Highlight API - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/CSS_Custom_Highlight_API",
+    "snippet": "The CSS Custom Highlight API provides a mechanism for styling arbitrary text ranges on a document by using JavaScript to create the ranges, and CSS to style them."
+  },
+  {
+    "title": "Server timing - Web APIs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/Performance_API/Server_timing",
+    "snippet": "Server-Timing is a part of the Performance API and allows servers to communicate metrics about the request-response cycle to the user agent. You can collect this information and act on server-side metrics in the same way as all the other metrics processed with the Performance API."
+  },
+  {
+    "title": "JavaScript resource management - JavaScript | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Resource_management",
+    "snippet": "This guide talks about how to do resource management in JavaScript. Resource management is not exactly the same as memory management, which is a more advanced topic and usually handled automatically by JavaScript. Resource management is about managing resources that are not automatically cleaned up by JavaScript. Sometimes, it's okay to have some unused objects in memory, because they don't interfere with application logic, but resource leaks often lead to things not working, or a lot of excess memory usage. Therefore, this is not an optional feature about optimization, but a core feature to write correct programs!"
+  },
+  {
+    "title": "Launching MDN's new front end",
+    "url": "https://developer.mozilla.org/en-US/blog/launching-new-front-end",
+    "snippet": "MDN is getting a facelift \u00f0\u009f\u008e\u0089. Discover what's changed, what's improved, and how navigating the site just got smoother.\n"
+  },
+  {
+    "title": "Pixel data from encoders to decoders",
+    "url": "https://developer.mozilla.org/en-US/blog/image-formats-pixels-graphics",
+    "snippet": "From individual pixels to fully decoded images on your screen, raw pixel data gets transformed, compressed, and efficiently delivered. Learn about the techniques and optimizations that shrink image information without any perceivable loss in quality.\n"
+  },
+  {
+    "title": "Color models for humans and devices",
+    "url": "https://developer.mozilla.org/en-US/blog/color-models-humans-devices",
+    "snippet": "Images help bring more color and life to the web. This post describes how images are represented by humans and on different devices, with details about color spaces and vision theory."
+  },
+  {
+    "title": "Default styles for h1 elements are changing",
+    "url": "https://developer.mozilla.org/en-US/blog/h1-element-styles",
+    "snippet": "Browsers are starting to roll out changes in default UA styles for nested section headings. This post describes the incoming changes, how to identify if it's an issue on your websites, and hints for conformant and better-structured pages.\n"
+  },
+  {
+    "title": "Yash Raj Bharti - Contributor Spotlight | MDN",
+    "url": "https://developer.mozilla.org/en-US/community/spotlight/yash-raj-bharti",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "MDN Blog",
+    "url": "https://developer.mozilla.org/en-US/blog/rss.xml",
+    "snippet": "MDN Bloghttps://developer.mozilla.org/en-US/blog/The MDN Web Docs blog publishes articles about web development, open source software, web platform updates, tutorials, changes and updates to MDN, and "
+  },
+  {
+    "title": "MDN Plus",
+    "url": "https://developer.mozilla.org/en-US/plus",
+    "snippet": "The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps."
+  },
+  {
+    "title": "Community resources - MDN Web Docs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/MDN/Community",
+    "snippet": "\u00f0\u009f\u0091\u008b Welcome to MDN Web Docs, an open-source, collaborative project that documents web platform technologies, including HTML, CSS, JavaScript, and Web APIs.\nWe also provide extensive learning resources for early-stage developers and students."
+  },
+  {
+    "title": "Writing guidelines - MDN Web Docs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/MDN/Writing_guidelines",
+    "snippet": "MDN Web Docs is an open-source project. The sections outlined below describe our guidelines for what we document and how we do it on MDN Web Docs. To learn about how to contribute, see our contribution guidelines."
+  },
+  {
+    "title": "MDN Web Docs Community",
+    "url": "https://developer.mozilla.org/discord",
+    "snippet": "The MDN server is a space for web developers of all levels to learn, share, and grow together. | 6697 members"
+  },
+  {
+    "title": "Web developer guides - MDN Web Docs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/MDN/Guides",
+    "snippet": "There are many guides on MDN Web Docs that teach you how to use features or APIs through practical examples.\nThis page is a curated list of some of the most popular goal-oriented learning material."
+  },
+  {
+    "title": "Web development tutorials - MDN Web Docs | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/MDN/Tutorials",
+    "snippet": "The links on this page lead to a variety of tutorials and learning materials.\nWhether you are a beginner, intermediate, or expert at web development, you will find something helpful here."
+  },
+  {
+    "title": "Glossary of web terms | MDN",
+    "url": "https://developer.mozilla.org/en-US/docs/Glossary",
+    "snippet": "Web technologies use many types of jargon, acronyms, and abbreviations in documentation, code, and other contexts.\nThis glossary provides definitions of words and abbreviations you need to know to successfully understand and build for the web."
+  },
+  {
+    "title": "Attribution and copyright licensing - MDN Web Docs | MDN",
+    "url": "https://developer.mozilla.org/docs/MDN/Writing_guidelines/Attrib_copyright_license",
+    "snippet": "MDN Web Docs content is available free of charge and is available under various open-source licenses."
+  },
+  {
+    "title": "Sign in to GitHub \u00b7 GitHub",
+    "url": "https://github.com/login",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Copilot \u00b7 Your AI pair programmer \u00b7 GitHub",
+    "url": "https://github.com/features/copilot",
+    "snippet": "GitHub Copilot works alongside you directly in your editor, suggesting whole lines or entire functions for you."
+  },
+  {
+    "title": "GitHub Spark - Dream it. See it. Ship it. \u00b7 GitHub",
+    "url": "https://github.com/features/spark",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Models | Build AI-powered projects with industry-leading \u00b7 GitHub",
+    "url": "https://github.com/features/models",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Advanced Security \u00b7 Built-in protection for every repository \u00b7 GitHub",
+    "url": "https://github.com/security/advanced-security",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Actions \u00b7 GitHub",
+    "url": "https://github.com/features/actions",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Codespaces \u00b7 GitHub",
+    "url": "https://github.com/features/codespaces",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Issues \u00b7 Project planning for developers \u00b7 GitHub",
+    "url": "https://github.com/features/issues",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Code Review \u00b7 GitHub",
+    "url": "https://github.com/features/code-review",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Discussions \u00b7 Developer Collaboration & Communication Tool \u00b7 GitHub",
+    "url": "https://github.com/features/discussions",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Code Search \u00b7 GitHub",
+    "url": "https://github.com/features/code-search",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Why Choose GitHub? \u00b7 GitHub \u00b7 GitHub",
+    "url": "https://github.com/why-github",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "MCP Registry \u00b7 GitHub",
+    "url": "https://github.com/mcp",
+    "snippet": "A faster, safer way to build with AI: the GitHub MCP Registry centralizes MCP servers for effortless discovery, integration, and open collaboration."
+  },
+  {
+    "title": "GitHub Features \u00b7 GitHub",
+    "url": "https://github.com/features",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "The AI Powered Developer Platform. \u00b7 GitHub",
+    "url": "https://github.com/enterprise",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub for teams \u00b7 Build like the best teams on the planet \u00b7 GitHub",
+    "url": "https://github.com/team",
+    "snippet": "With CI/CD, Dependabot, and the world\u2019s largest developer community, GitHub gives your team everything they need to ship better software faster."
+  },
+  {
+    "title": "GitHub for Startups: Build your startup on GitHub \u00b7 GitHub",
+    "url": "https://github.com/enterprise/startups",
+    "snippet": "Go from idea to IPO on the world\u2019s best software development platform with free&nbsp;access to GitHub Enterprise"
+  },
+  {
+    "title": "GitHub for Nonprofits \u00b7 GitHub",
+    "url": "https://github.com/solutions/industry/nonprofits",
+    "snippet": "GitHub for Nonprofits helps organizations accelerate their mission with free tools and discounts. Verified nonprofits get a free GitHub Team plan or 25% off GitHub Enterprise Cloud, boosting visibility, connecting with developers, and enhancing security. Join today to power your mission with GitHub.\n"
+  },
+  {
+    "title": "App Modernization Solutions | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/use-case/app-modernization",
+    "snippet": "Assess, Upgrade and migrate apps to the cloud with GitHub Copilot."
+  },
+  {
+    "title": "Unified DevSecOps Solutions Built for Security | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/use-case/devsecops",
+    "snippet": "GitHub offers comprehensive security tools to build, secure, and ship software on an AI-powered DevSecOps platform, boosting DevOps with integrated security.\n"
+  },
+  {
+    "title": "Unified AI-Powered Platforms for DevOps Solutions | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/use-case/devops",
+    "snippet": "Explore GitHub\u2019s AI-powered DevOps solutions to build, automate, and secure software on a unified platform designed for every step of your DevOps lifecycle."
+  },
+  {
+    "title": "A Complete CI/CD Solution for Software Development | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/use-case/ci-cd",
+    "snippet": "Streamline, secure, and deploy your software with GitHub's CI/CD solutions, designed to optimize your development and deployment pipeline."
+  },
+  {
+    "title": "GitHub Use Case Solutions | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/use-case",
+    "snippet": "Solve your business challenges with proven combinations of GitHub solutions, empowering your team to ship secure software quickly and accelerate innovation."
+  },
+  {
+    "title": "AI-Powered Platform for Secure Healthcare Solutions | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/industry/healthcare",
+    "snippet": "GitHub offers secure healthcare solutions, healthcare development and innovation, with a AI-powered platform to build secure patient care solutions at scale."
+  },
+  {
+    "title": "AI-Powered Financial Solutions for Secure Innovation | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/industry/financial-services",
+    "snippet": "Build innovative financial services with GitHub's AI-powered solutions, embedding AI into workflows to drive secure, scalable innovation and enhance compliance."
+  },
+  {
+    "title": "AI-Powered Manufacturing Solutions | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/industry/manufacturing",
+    "snippet": "Transform manufacturing with GitHub\u2019s AI-powered platform. Enhance innovation, secure your supply chain, and scale development efficiently"
+  },
+  {
+    "title": "Government Agency Software Development Solutions | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/industry/government",
+    "snippet": "Discover how GitHub\u2019s government solutions enable secure, innovative software development on a collaborative AI-powered platform for government agencies."
+  },
+  {
+    "title": "GitHub Industry Solutions | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions/industry",
+    "snippet": "Explore GitHub's AI-powered industry solutions for secure, scalable development across finance, healthcare, manufacturing, and government sectors"
+  },
+  {
+    "title": "Scalable AI-Powered Enterprise Platform Solutions | GitHub \u00b7 GitHub",
+    "url": "https://github.com/solutions",
+    "snippet": " With the help of GitHub, a platform to build and ship software, you can receive AI-powered platform solutions, DevOps, and more to solve industry challenges."
+  },
+  {
+    "title": "AI \u00b7 GitHub",
+    "url": "https://github.com/resources/articles/ai",
+    "snippet": "Gallery of articles for the topic AI"
+  },
+  {
+    "title": "DevOps \u00b7 GitHub",
+    "url": "https://github.com/resources/articles/devops",
+    "snippet": "Gallery of articles for the topic DevOps"
+  },
+  {
+    "title": "Security \u00b7 GitHub",
+    "url": "https://github.com/resources/articles/security",
+    "snippet": "Gallery of articles for the topic Security"
+  },
+  {
+    "title": "Software Development \u00b7 GitHub",
+    "url": "https://github.com/resources/articles/software-development",
+    "snippet": "Gallery of articles for the topic Software Development"
+  },
+  {
+    "title": "All Topics \u00b7 GitHub",
+    "url": "https://github.com/resources/articles",
+    "snippet": "Gallery of articles for the topic All Topics"
+  },
+  {
+    "title": "Upcoming GitHub events, webinars & developer conferences \u00b7 GitHub",
+    "url": "https://github.com/resources/events",
+    "snippet": "Discover upcoming GitHub events, webinars, and conferences. Connect with developers, explore new tools, and learn how to build, secure, and scale software with GitHub."
+  },
+  {
+    "title": "Ebooks & Whitepapers \u00b7 GitHub",
+    "url": "https://github.com/resources/whitepapers",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Customer stories \u00b7 GitHub",
+    "url": "https://github.com/customer-stories",
+    "snippet": "With collaborative project management, flexible security options, and easy admin, thousands of organizations are using GitHub and GitHub Enterprise to build better software. Hear what a few of them have to say."
+  },
+  {
+    "title": "GitHub Partner Program \u00b7 GitHub",
+    "url": "https://github.com/partners",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Solutions | Executive Insights \u00b7 GitHub",
+    "url": "https://github.com/solutions/executive-insights",
+    "snippet": "Executive insights, curated just for you"
+  },
+  {
+    "title": "GitHub Sponsors \u00b7 GitHub",
+    "url": "https://github.com/sponsors",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "The ReadME Project \u00b7\u00a0Meet the people behind the projects you love \u00b7 GitHub",
+    "url": "https://github.com/readme",
+    "snippet": "The ReadME Project \u00b7 Meet the people behind the projects you love \u00b7 GitHub Skip to content GitHub Universe 2025 IRL passes are going fast\u2014secure your spot at Universe 2025 today. Register now. Navigat"
+  },
+  {
+    "title": "Topics on GitHub \u00b7 GitHub",
+    "url": "https://github.com/topics",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Trending  repositories on GitHub today \u00b7 GitHub",
+    "url": "https://github.com/trending",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Collections \u00b7 GitHub",
+    "url": "https://github.com/collections",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Copilot Business \u00b7 GitHub",
+    "url": "https://github.com/features/copilot/copilot-business",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Premium Support \u00b7 GitHub",
+    "url": "https://github.com/premium-support",
+    "snippet": "Get expert help for Enterprise Cloud and Enterprise\u2014any hour your team needs it."
+  },
+  {
+    "title": "Pricing \u00b7 Plans for every developer \u00b7 GitHub",
+    "url": "https://github.com/pricing",
+    "snippet": "Whether you're starting an open source project or choosing new tools for your team, we\u2019ve got you covered."
+  },
+  {
+    "title": "Sign up for GitHub \u00b7 GitHub",
+    "url": "https://github.com/signup",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Signup to GitHub Copilot Pro \u00b7 GitHub",
+    "url": "https://github.com/github-copilot/pro",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Duolingo \u00b7 GitHub",
+    "url": "https://github.com/customer-stories/duolingo",
+    "snippet": "Duolingo empowers its engineers to be force multipliers for expertise with GitHub Copilot."
+  },
+  {
+    "title": "GitHub Mobile \u00b7 GitHub",
+    "url": "https://github.com/mobile",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Supply Chain Security \u00b7 GitHub",
+    "url": "https://github.com/security/advanced-security/software-supply-chain",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Secret Protection \u00b7 GitHub",
+    "url": "https://github.com/security/advanced-security/secret-protection",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Figma \u00b7 GitHub",
+    "url": "https://github.com/customer-stories/figma",
+    "snippet": "Figma amplifies collaboration through GitHub integration."
+  },
+  {
+    "title": "Mercedes-Benz \u00b7 GitHub",
+    "url": "https://github.com/customer-stories/mercedes-benz",
+    "snippet": "Automotive excellence at Mercedes-Benz and seamless developer experience on GitHub go hand in hand."
+  },
+  {
+    "title": "Mercado Libre \u00b7 GitHub",
+    "url": "https://github.com/customer-stories/mercado-libre",
+    "snippet": "Mercado Libre frees developers' minds to focus on their mission with GitHub."
+  },
+  {
+    "title": "GitHub AI | AI that builds with you \u00b7 GitHub",
+    "url": "https://github.com/features/ai",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Security \u00b7 GitHub",
+    "url": "https://github.com/security",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub - github/roadmap: GitHub public roadmap",
+    "url": "https://github.com/github/roadmap",
+    "snippet": "GitHub public roadmap. Contribute to github/roadmap development by creating an account on GitHub."
+  },
+  {
+    "title": "GitHub Education \u00b7 GitHub",
+    "url": "https://github.com/edu",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "community \u00b7 Discussions \u00b7 GitHub",
+    "url": "https://github.community",
+    "snippet": " Ask questions, get answers, share expertise. "
+  },
+  {
+    "title": "GitHub Premium Support \u00b7 GitHub",
+    "url": "https://github.com/enterprise/premium-support",
+    "snippet": "Get expert help for Enterprise Cloud and Enterprise\u2014any hour your team needs it."
+  },
+  {
+    "title": "About GitHub \u00b7 GitHub",
+    "url": "https://github.com/about",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub Newsroom \u00b7 GitHub",
+    "url": "https://github.com/newsroom",
+    "snippet": "Explore GitHub Newsroom for top press stories, press releases, customer success stories, analyst reports, and company updates. Your go-to source for enterprise insights, media coverage, and business information."
+  },
+  {
+    "title": "Global Diversity, Inclusion, and Belonging at GitHub \u00b7 GitHub",
+    "url": "https://github.com/about/diversity",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Privacy Statement Updates September 2022 \u00b7 Pull Request #582 \u00b7 github/site-policy \u00b7 GitHub",
+    "url": "https://github.com/github/site-policy/pull/582",
+    "snippet": "GitHub is introducing non-essential cookies on web pages that market our products to businesses. These cookies will provide analytics to improve the site experience and personalize content and ads ..."
+  },
+  {
+    "title": "GitHub Sitemap \u00b7 GitHub",
+    "url": "https://github.com/sitemap",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "Git \u00b7 GitHub",
+    "url": "https://github.com/git-guides",
+    "snippet": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects."
+  },
+  {
+    "title": "GitHub \u00b7 GitHub",
+    "url": "https://github.com/github",
+    "snippet": "How people build software. GitHub has 526 repositories available. Follow their code on GitHub."
+  },
+  {
+    "title": "Login",
+    "url": "https://bygrovix.com/user/write",
+    "snippet": "Grovix is your go-to platform for the latest articles and insights on technology and science."
+  },
+  {
+    "title": "Login",
+    "url": "https://bygrovix.com/auth/login",
+    "snippet": "Grovix is your go-to platform for the latest articles and insights on technology and science."
+  },
+  {
+    "title": "Science Feed",
+    "url": "https://bygrovix.com/category/science",
+    "snippet": "Read the latest articles in the science category on Grovix. Stay updated with insights, tutorials, and news in science."
+  },
+  {
+    "title": "Technology Feed",
+    "url": "https://bygrovix.com/category/technology",
+    "snippet": "Read the latest articles in the technology category on Grovix. Stay updated with insights, tutorials, and news in technology."
+  },
+  {
+    "title": "Business Feed",
+    "url": "https://bygrovix.com/category/business",
+    "snippet": "Read the latest articles in the business category on Grovix. Stay updated with insights, tutorials, and news in business."
+  },
+  {
+    "title": "I Tested 10 AI Note-Taking Apps - Here's What Actually Works (9,000% Growth Rate Revealed)",
+    "url": "https://bygrovix.com/article/i_tested_10_ai_notetaking_apps_heres_what_actually_works_9000_growth_rate_revealed",
+    "snippet": "Explores top AI note-taking apps and effective implementation strategies."
+  },
+  {
+    "title": "How I Built an Audio Transmitter Using a Laser",
+    "url": "https://bygrovix.com/article/how_i_built_an_audio_transmitter_using_a_laser",
+    "snippet": "Explains how to build a laser-based audio transmitter."
+  },
+  {
+    "title": "How to Create a Wikipedia Article: A Complete Beginner\u2019s Guide",
+    "url": "https://bygrovix.com/article/how_to_create_a_wikipedia_article_a_complete_beginners_guide_1",
+    "snippet": "A step-by-step guide to creating a Wikipedia article."
+  },
+  {
+    "title": "How to Build a Live Chatting App Using Supabase",
+    "url": "https://bygrovix.com/article/how_to_build_a_live_chatting_app_using_supabase",
+    "snippet": "Learn how to create a live chat app using Supabase with real-time features."
+  },
+  {
+    "title": "Send Emails with Node.js the Easy Way",
+    "url": "https://bygrovix.com/article/send_emails_with_nodejs_the_easy_way",
+    "snippet": "Learn how to send emails in Node.js using nodemailer."
+  },
+  {
+    "title": "Building a Text Summarization Web App with Gemini API",
+    "url": "https://bygrovix.com/article/building_a_text_summarization_web_app_with_gemini_api",
+    "snippet": "Learn to build a text summarization web app using Gemini API."
+  },
+  {
+    "title": "Why light is faster and smarter than us",
+    "url": "https://bygrovix.com/article/why_light_is_faster_and_smarter_than_us",
+    "snippet": "Explains how light chooses the fastest path through physical principles."
+  },
+  {
+    "title": "About the Python Software Foundation | Python Software Foundation",
+    "url": "https://www.python.org/psf/about",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Mission | Python Software Foundation",
+    "url": "https://www.python.org/psf/mission",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "PSF Officers & Board Members | Python Software Foundation",
+    "url": "https://www.python.org/psf/board",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Software Foundation Staff | Python Software Foundation",
+    "url": "https://www.python.org/psf/records/staff",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Fiscal Sponsorees | Python Software Foundation",
+    "url": "https://www.python.org/psf/fiscal-sponsorees",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Software Foundation Public Records | Python.org",
+    "url": "https://www.python.org/psf/records",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Legal & Policies | Python Software Foundation",
+    "url": "https://www.python.org/psf/about/legal-and-policies",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Software Foundation FAQ | Python Software Foundation",
+    "url": "https://www.python.org/psf/faq",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "PSF Developers in Residence | Python.org",
+    "url": "https://www.python.org/psf/developersinresidence",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Sponsor the PSF | Python Software Foundation",
+    "url": "https://www.python.org/psf/sponsorship",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Software Foundation Sponsors | Python Software Foundation",
+    "url": "https://www.python.org/psf/sponsors",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Sponsorship Application | Python.org",
+    "url": "https://www.python.org/sponsors/application",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "PSF Membership Types & FAQ | Python Software Foundation",
+    "url": "https://www.python.org/psf/membership-faq",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Elections | Python.org",
+    "url": "https://www.python.org/nominations/elections",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "PSF Fellows Roster | Python Software Foundation",
+    "url": "https://www.python.org/psf/fellows-roster",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Power Python: | Python.org",
+    "url": "https://www.python.org/psf/donations/2024-q4-drive",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Supporting Membership | Python Software Foundation",
+    "url": "https://www.python.org/psf/membership/supporting",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Matching Donations | Python Software Foundation",
+    "url": "https://www.python.org/psf/donations/matching-gifts",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Volunteer | Python Software Foundation",
+    "url": "https://www.python.org/psf/volunteer",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Work Groups of the Python Software Foundation | Python Software Foundation",
+    "url": "https://www.python.org/psf/workgroups",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Volunteer Opportunities for PyCon US | Python Software Foundation",
+    "url": "https://www.python.org/psf/volunteer/pycon",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "PSF Grants Program | Python Software Foundation",
+    "url": "https://www.python.org/psf/grants",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Grants - Frequently Asked Questions | Python Software Foundation",
+    "url": "https://www.python.org/psf/grants/faq",
+    "snippet": "Considering submitting a grant request to the PSF? Please read this FAQ first."
+  },
+  {
+    "title": "Python Software Foundation News & Community | Python Software Foundation",
+    "url": "https://www.python.org/psf/news-and-community",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Job Types | Python.org",
+    "url": "https://www.python.org/jobs/types",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/back-end",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/big-data",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/cloud",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/database",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/finance",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/front-end",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/integration",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/lead",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/machine-learning",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/management",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/operations",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/systems",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/testing",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/text-processing",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/type/web",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Our Job Categories | Python.org",
+    "url": "https://www.python.org/jobs/categories",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/category/data-analyst",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/category/developer-engineer",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Job Locations | Python.org",
+    "url": "https://www.python.org/jobs/locations",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/telecommute",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/abuja-nigeria",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/any-european-union",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/bogota-medellin-or-cartagena-cundinamarca-antioquia-bolivar-colombia",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/bogota-medellin-or-cartagena-cundinamarca-antioquia-or-bolivar-colombia",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/boston-ma-usa",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/brooklyn-ny-united-states",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/canada-remote-remote-in-canada-canada",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/dublin-dublin-ireland",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/full-remote-full-remote-full-remote",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/high-street-botley-uk",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/hyderabad-telangana-india",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/london-london-united-kingdom",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/london-or-new-york-usa-or-uk",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/london-united-kingdom",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/miami-or-south-florida-florida-us",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/prague-remote",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/raleigh-durham-north-carolina-usa",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/remote-eu-time-zone-eu-uk-dubai-czech-republic",
+    "snippet": "The official home of the Python Programming Language"
+  },
+  {
+    "title": "Python Job Board | Python.org",
+    "url": "https://www.python.org/jobs/location/remote-florida-united-states",
+    "snippet": "The official home of the Python Programming Language"
   }
 ]
