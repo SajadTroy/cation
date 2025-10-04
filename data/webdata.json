@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Python — Official Site",
+    "url": "https://www.python.org/",
+    "snippet": "The official home of the Python Programming Language. Downloads, documentation, and community resources."
+  },
+  {
+    "title": "GitHub",
+    "url": "https://github.com/",
+    "snippet": "GitHub is where over 100 million developers shape the future of software together. Explore, collaborate, and build."
+  },
+  {
+    "title": "Linux Manual Pages",
+    "url": "https://man7.org/linux/man-pages/",
+    "snippet": "Extensive collection of Linux man pages and system documentation, covering commands, system calls, and libraries."
+  },
+  {
+    "title": "Mozilla Developer Network (MDN)",
+    "url": "https://developer.mozilla.org/",
+    "snippet": "MDN Web Docs provides documentation and tutorials for web developers on HTML, CSS, JavaScript, and APIs."
+  },
+  {
+    "title": "Wikipedia",
+    "url": "https://www.wikipedia.org/",
+    "snippet": "Wikipedia is a free online encyclopedia, created and edited by volunteers around the world."
+  },
+  {
+    "title": "Kaggle",
+    "url": "https://www.kaggle.com/",
+    "snippet": "Kaggle is a platform for predictive modeling and analytics competitions, with datasets and notebooks."
+  },
+  {
+    "title": "Stack Overflow",
+    "url": "https://stackoverflow.com/",
+    "snippet": "Stack Overflow is the largest online community for developers to learn, share their programming knowledge, and build careers."
+  },
+  {
+    "title": "OpenAI",
+    "url": "https://openai.com/",
+    "snippet": "OpenAI develops artificial intelligence models like GPT to ensure that AI benefits all of humanity."
+  }
+]
