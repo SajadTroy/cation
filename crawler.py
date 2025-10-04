@@ -4,7 +4,7 @@ from urllib.parse import urljoin, urlparse
 
 # CONFIG
 SEEDS = [
-    "https://github.com/SajadTroy/cation",
+    "https://www.youtube.com",
 ]
 OUTPUT = "data/webdata.json"
 CRAWL_DELAY = 1.0
